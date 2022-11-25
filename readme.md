@@ -53,4 +53,4 @@
 
 - 챗봇 프로젝트
   - 2022.11.11 ~ 2022.12.02
-  - [프로젝트 폴더 링크](https://github.com/gdr1112/project.git)
+  - [카카오 챗봇 프로젝트 ](https://github.com/gdr1112/project.git)
