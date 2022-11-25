@@ -16,6 +16,7 @@
   - 2022.09.05 ~ 2022.09.16
   - 교재 : [오라클sql과 pl/sql을 다루는 기술 (길벗)](https://github.com/gilbutITbook/006696)
   -  ![](2022-11-25-13-03-48.png)
+  -  [오라클 DB 와 SQL Developer 설치하며 겪은 일](https://github.com/gdr1112/SQL)
 
 - Python
   - 2022.09.19 ~ 2022.09.27
