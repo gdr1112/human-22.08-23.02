@@ -42,7 +42,8 @@
   - 교재 : [딥러닝 텐서플로 교과서 (길벗)](https://github.com/gilbutITbook/080263)
   -  ![](2022-11-25-13-02-08.png)
 ---
-
+- streamlit app
+  - [대쉬보드](https://github.com/gdr1112/streamlit-app-human)
 
 
 
